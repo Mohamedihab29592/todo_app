@@ -1,5 +1,5 @@
 # todo app
-## sqflite, Cubit, Bloc, Provider, 
+## sqflite, Cubit, Bloc, Provider.
 
 
 
